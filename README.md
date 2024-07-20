@@ -2,7 +2,7 @@
 
 - Botun Sahipleri papazchavo. , ancientchavo
 
-Testleri yapılmıştır Hiçbir hatası bulunmamaktadır starlarınızı bekliyoruz Sizlere Priv Botu veriyorum zaman olmadığı için hızlı yaptık ve elimizden geldiği kadar ekleme yaptık çoklu tag sistemli uyarlı ve kendiniz çogaltabilirsiniz.
+Testleri yapılmıştır Hiçbir hatası bulunmamaktadır starlarınızı bekliyoruz Sizlere Priv Botu veriyorum zaman olmadığı için hızlı yaptık ve elimizden geldiği kadar ekleme yaptık kendiniz çogaltabilirsiniz.
 
 Setup sistem olarak yaptık kullanırken ```config.json``` Boş yerleri doldurun
 
