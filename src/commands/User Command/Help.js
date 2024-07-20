@@ -24,7 +24,7 @@ module.exports = {
     )
 
 let msg = await message.channel.send({ embeds: [embed.setThumbnail(message.author.avatarURL({dynamic: true, size: 2048})).setDescription(`
-> **${message.guild.name}** Kulanıcaz Komutlar Aşagıdan Bakarak Göre Bilirsiniz!
+> **${message.guild.name}** Kullanılacak Komutlar Aşagıdan Bakarak Görebilirsiniz!
 
 \`\`\`Register\`\`\`
 \`.e\` **İD/Kişi İsim Yaş Yada Tek İsim**
