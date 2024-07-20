@@ -1,0 +1,44 @@
+{
+  "KomutKullanımKanalİsim": ["bot-commands"],
+  "ownerkomutkulanım": ["bot-commands"],
+
+  "cekilis": "Çekiliş", 
+  "etkinlik": "Etkinlik",
+  
+  "İlişkiler": {
+    "couple": "Sevgilim Var",
+    "alone": "Sevgilim Yok"
+  },
+  "Renkler": {
+    "siyah": "🍫",
+    "beyaz": "🥥",
+    "kırmızı": "🍒",
+    "mavi": "💦",
+    "turuncu": "🥕",
+    "sarı": "🍋",
+    "mor": "🍇",
+    "yeşil": "🥝"
+  },
+  "Oyunlar": {
+    "csgo": "CS:GO",
+    "lol": "League",
+    "valorant": "Valorant",
+    "gta5": "Gta",
+    "pubg": "PUBG",
+    "fortnite": "Fortnite"
+  },
+  "Burçlar": {
+    "koç": "Koç",
+    "boğa": "Boğa",
+    "ikizler": "İkizler",
+    "yengeç": "Yengeç",
+    "aslan": "Aslan",
+    "başak": "Başak",
+    "terazi": "Terazi",
+    "akrep": "Akrep",
+    "yay": "Yay",
+    "oğlak": "Oğlak",
+    "kova": "Kova",
+    "balık": "Balık"
+  }
+}

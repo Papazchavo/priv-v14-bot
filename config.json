@@ -1,0 +1,25 @@
+{ 
+    "GuildID": "",
+    "GuildName": "",
+    "owners": ["","",""],
+    "BotDurum": ["",""], 
+    "BotSesKanal": "",
+    "AltBaşlık": "",
+
+    "mongoUrl": "",
+
+
+    "Main": {
+        "ModerationToken": "",
+        "BotClientID": "",
+        "prefix": [".","+","!"],
+        
+        "banlimit": 3,
+        "jaillimit": 3,
+        "warnlimit": 3,
+        "chatmutelimit": 3,
+        "voicemutelimit": 3
+
+
+    }
+    }
