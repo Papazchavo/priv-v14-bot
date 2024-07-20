@@ -10,7 +10,6 @@ Testleri yapılmıştır Hiçbir hatası bulunmamaktadır starlarınızı bekliy
 
 ## Özellikler
 
-- **Çoklu Tag Sistemi:** Esnek ve kullanıcı dostu.
 - **Hızlı Kurulum:** Basit ve anlaşılır kurulum talimatları.
 - **Modüler Yapı:** İhtiyacınıza göre kolayca genişletilebilir.
 - **Apache License:** Botun dosyalarının izinsiz paylaşılması/satılması durumunda yasal işlemler yapılacaktır.
